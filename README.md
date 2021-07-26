@@ -1,3 +1,3 @@
 # Skeleton repository for Python CLI tools
 
-Just an example for Kitto.
+Just an example for friends.
